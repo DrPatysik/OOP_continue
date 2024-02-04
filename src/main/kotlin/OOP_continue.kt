@@ -4,5 +4,4 @@ fun main(args: Array<String>) {
      rect1.createRect(2,8)
    println( rect.perimeterRect())
     println( rect.squareRect())
-
 }
